@@ -1,3 +1,3 @@
 # Assert
 
-Stolen from ThePrimeagen, used to enact on NASA's power of ten rules :)
+Stolen from ThePrimeagen, used to misuse on NASA's power of ten rules :)
